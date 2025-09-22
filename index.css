@@ -1,0 +1,20 @@
+.TwoBoxs{
+    display: flex;
+}
+img{
+    width:50px
+}
+.box{
+    margin:40px;
+    border-color:green;
+    border-style: solid;
+    border-width:2px;
+    padding:20px;
+}
+.box{
+    margin:40px;
+    border-color:green;
+    border-style: solid;
+    border-width:2px;
+    padding:20px;
+}
