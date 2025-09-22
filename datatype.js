@@ -3,7 +3,7 @@ s="mahendar"
 data=null
 a=true
 d = undefined
-array = (34,"jahn",true,null)
+array = [34,"jahn",true,null]
 object = {
     name:"mahendar",
     rollNO:1
